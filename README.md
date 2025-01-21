@@ -9,3 +9,6 @@
 5. Coba pahami masalah yang terjadi
 6. Hal sederhana lebih bagus daripada hal yang kompleks (dalam konteks belajar)
 7. Konsisten
+8. Jangan pernah berhenti belajar
+9. Belajar dari sumber manapun
+10. Jangan terlalu fokus di tools
