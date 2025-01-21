@@ -12,3 +12,8 @@
 8. Jangan pernah berhenti belajar
 9. Belajar dari sumber manapun
 10. Jangan terlalu fokus di tools
+11. Jangan takut salah
+12. Google
+13. Tools (motivasi dan rasa penasaran yang tinggi)
+14. Bahasa pemrograman (pilih salah satu dulu yang cocok)
+15. Improvisasi
