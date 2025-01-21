@@ -17,3 +17,4 @@
 13. Tools (motivasi dan rasa penasaran yang tinggi)
 14. Bahasa pemrograman (pilih salah satu dulu yang cocok)
 15. Improvisasi
+16. Jangan lupa happy dan istirahat
